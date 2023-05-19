@@ -25,6 +25,14 @@ public class Calculator {
     public enum MonoOperatorModes {
         square, squareRoot, oneDividedBy, cos, sin, tan, log, rate, abs, ln,
     }
+    
+    
+    
+    
+    
+    
+    
+    
 
     private Double num1, num2;
     private BiOperatorModes mode = BiOperatorModes.normal;
